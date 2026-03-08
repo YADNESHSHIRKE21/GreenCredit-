@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.sqlite3
+
+# Node
+node_modules/
+npm-debug.log
+
+# Flutter
+.dart_tool/
+build/
+*.g.dart
+
+# macOS
+.DS_Store
+
+# Media files
+media/
+
+# IDE
+.vscode/
+.idea/
